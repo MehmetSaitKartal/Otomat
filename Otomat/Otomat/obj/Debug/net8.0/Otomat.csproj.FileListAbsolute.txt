@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Otomat\Otomat\bin\Debug\net8.0\Otomat.exe
+C:\Users\User\source\repos\Otomat\Otomat\bin\Debug\net8.0\Otomat.deps.json
+C:\Users\User\source\repos\Otomat\Otomat\bin\Debug\net8.0\Otomat.runtimeconfig.json
+C:\Users\User\source\repos\Otomat\Otomat\bin\Debug\net8.0\Otomat.dll
+C:\Users\User\source\repos\Otomat\Otomat\bin\Debug\net8.0\Otomat.pdb
+C:\Users\User\source\repos\Otomat\Otomat\obj\Debug\net8.0\Otomat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Otomat\Otomat\obj\Debug\net8.0\Otomat.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Otomat\Otomat\obj\Debug\net8.0\Otomat.AssemblyInfo.cs
+C:\Users\User\source\repos\Otomat\Otomat\obj\Debug\net8.0\Otomat.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Otomat\Otomat\obj\Debug\net8.0\Otomat.dll
+C:\Users\User\source\repos\Otomat\Otomat\obj\Debug\net8.0\refint\Otomat.dll
+C:\Users\User\source\repos\Otomat\Otomat\obj\Debug\net8.0\Otomat.pdb
+C:\Users\User\source\repos\Otomat\Otomat\obj\Debug\net8.0\Otomat.genruntimeconfig.cache
+C:\Users\User\source\repos\Otomat\Otomat\obj\Debug\net8.0\ref\Otomat.dll
